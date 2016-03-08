@@ -1,0 +1,44 @@
+Historical evolution of building codes in Japan
+
+Japan has an extensive history of devastating earthquake disasters.  However, building codes have significantly contributed to making Japan one of the world’s most earthquake-resilient countries.
+ 
+**1919**
+Following serious earthquake damage to new structures during the 1890s, scientific and engineering analysis was undertaken that provided the basis for the Urban Building Law of 1919.
+ 
+**1920** 
+The Urban Building Law was introduced to regulate building construction in six major cities in Japan. Following this, the 1920 Law Enforcement Order was introduced, with two key innovations. The law established Japan’s first building permit system, which was operated by the police under prefectural government.  In addition, it included technical requirements for usage, height, and other safety specifications associated with zoning and building codes, as well as structural design requirements for timber, masonry, brick, reinforced concrete, and steel construction. 
+The 1920 regulations also included allowable stress design, quality of materials, and dead and live loads—but not seismic requirements. 
+ 
+**1923 - 1924**
+The 1923 Kanto earthquake registered a magnitude of 7.9. It resulted in significant damage to modern buildings, as well as those using reinforced concrete. This experience and subsequent analysis led to an important revision of the Building Regulations in 1924. These revisions included the introduction of seismic force considerations and subsequent advances in seismic design methods.
+ 
+**1949** 
+Post-World War II reconstruction considerably expanded building regulation with the following legislation:
++ .Construction Trade Law (1949)
++ .Building Standard Law (1950)
++ .Architect Law (1950)
+These new laws aimed to safeguard the life, health, and property of citizens by providing minimum standards concerning the site, structure, equipment, and use of buildings; to define the qualification of engineers who could design buildings and supervise construction work; to improve the quality of those engaged in construction trades; and to promote fair construction contracts.
+Aside from the legal code documents, the contemporary building regulatory system of Japan referenced standards developed by qualified government and nongovernment organizations such as
++ .Ministry of Land, Infrastructure, Transport & Tourism (MLIT) 
++ .The Architectural Institute of Japan 
++ .The Japan Concrete Institute guidelines, specifications, and manuals
+ 
+**1971**
+Further key legal developments were marked by a revision to the Building Standard Law in 1971, which introduced expanded seismic design codes.
+ 
+**1981**
+Building on the foundations of the National Research Project 1972–1977, Japan’s building code was considerably updated. The revised code, part of which is still in use, now required buildings to withstand a lateral force of 20 percent of their total weight without damaging structural members. The code also required that buildings should (a) be strong enough to withstand a lateral force equal to 100 percent of the building’s weight; and (b) be able to endure, without collapse or other serious damage, an extremely large earthquake with a return period of about 500 years.
+ 
+**1995**
+The Great Hanshin-Awaji earthquake in 1995 revealed previously unrecognized weaknesses in construction, which resulted in further refinement of seismic codes and responses to new developments impacting building regulation and safety. The Act for Promoting Seismic Retrofitting of Existing Buildings developed provisions for national and local governments to offer subsidies, tax reduction, and low-interest loans to private homeowners who conducted structural assessment and retrofitting. 
+ 
+**1998**
+The Building Standard Law of Japan was revised in 1998, partially with the goal of introducing performance-based design regulations. The law also opened the building certification issuing process to private companies, thus supplementing local governments who were previously the only competent authorities for conducting this process.
+ 
+**2007**
+The process for validating structural calculation was considerably strengthened following cases of code violation in 2005.
+ 
+Dramatic Reduction of Damage due to Earthquake Ground Motion
+Japan’s dynamic incremental improvement of building code provisions serves as an outstanding example of the value of combining building research and regulation to meet the challenges of disaster risk reduction. Continuous improvement of building codes, including rapid incorporation of lessons learned from disaster experience and thorough implementation of regulatory provisions, has supported a dramatic improvement of seismic performance in new Japanese construction.
+
+Source:  Dr. Tatsuo Narafu, JICA; MLIT; Keiko Sakoda Kaneda, World Bank; Shunsuke Otani, Chiba University.

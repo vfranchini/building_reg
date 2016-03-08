@@ -1,0 +1,53 @@
+# Abbreviations and acronyms
+
+AIA American Institute of Architects
+BCA Building Consent Authority
+BCC Building Code Commission
+BCEGS Building Code Effectiveness Grading Schedule
+BEEPS Business Environment and Enterprise Performance Survey
+CAPRA Probabilistic Risk Assessment program
+CBO community-based organization
+CENEPRED National Center for Estimation, Prevention and Reduction of Disaster Risk
+CETEC Centro Tecnológico del Cemento y Concreto
+CTIF International Association of Fire and Rescue Services
+DRR disaster risk reduction
+EERI Earthquake Engineering Research Institute
+FEMA Federal Emergency Management Agency
+FID Fund of Intervention for Development
+FIMA Federal Insurance and Mitigation Administration
+GDP gross domestic product 
+GEM Global Earthquake Model
+GFDRR Global Facility for Disaster Reduction and Recovery
+GIS geographic information system
+HFA Hyogo Framework for Action
+HFA2 Hyogo Framework for Action 2
+HMF housing microfinance
+IANZ International Accreditation New Zealand
+IAS International Accreditation Service
+IBC International Building Code
+IBHS Insurance Institute for Business Home Safety
+ICC International Code Council
+ICT information and communication technology
+IFC International Finance Corporation
+ISMEP Istanbul Seismic Risk Mitigation and Emergency Preparedness Project
+ISO Insurance Services Office
+JICA Japan International Cooperation Agency
+JNBC Jamaican National Building Code
+KEBS Kenya Bureau of Standards
+MCC Mennonite Central Committee
+NBC Nepal Building Code
+NEC National Ethics Council
+NEHRP National Earthquake Hazards Reduction Program
+NGO nongovernmental organization
+NSET Nepal Society for Earthquake Technology
+OECD Organisation for Economic Co-operation and Development
+OGA Guatemalan Accreditation Body
+RFPE regulatory flood protection elevation
+RVS rapid visual screening
+UNESCO United Nations Educational, Scientific and Cultural Organization
+UNIDNDR United Nations International Decade for Disaster Reduction 
+UNISDR United Nations International Strategy for Disaster Risk Reduction
+USAID U.S. Agency for International Development
+USGS U.S. Geological Survey 
+ 
+All figures are in US$ unless otherwise stated.
