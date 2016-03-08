@@ -1,0 +1,5 @@
+# Ignore autosave/cache files
+*.idlk
+*.indd
+*.indb
+*.pdf
