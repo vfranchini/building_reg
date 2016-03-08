@@ -1,8 +1,8 @@
 # Report Instructions
 
-Last Updated: Jan 21, 2015
+Last Updated: March 8, 2016
 
-Repository for _Another Nargis Strikes Every Day – Post-Nargis Social Impacts Monitoring Five Years On_
+Repository for _Building Regulation for Resilience_
 
 Copyrighted Content ©
 
@@ -58,10 +58,10 @@ All headings must be separated and removed from the body text in all situations.
 At this time, only three heading levels are selected to appear in the Table of Contents. Headings are denoted by placing "#" before the heading title. The more "#", the less important the heading:
 
 ```
-#Heading Level 1    = Title of the Chapter
-##Heading Level 2   = Major Chapter Section
-###Heading Level 3  = Sub Heading
-####Heading Level 4 = Minor Heading not in TOC
+# Heading Level 1    = Title of the Chapter
+## Heading Level 2   = Major Chapter Section
+### Heading Level 3  = Sub Heading
+#### Heading Level 4 = Minor Heading not in TOC
 
 And so forth through Level 6
 ```
