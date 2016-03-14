@@ -13,7 +13,7 @@ Second, it will explore the feasibility of using building and land use regulator
 Third, it will call for a renewed and internationally coordinated effort aiming at promoting disaster risk reduction through efficient and effective building code implementation. As such, the report outlines a proposed programmatic approach consistent with the priorities set out in the Sendai Framework for Disaster Risk Reduction 2015–2030.
 
 ## A mandate to act now
-On March 18, 2015, at the Third UN World Conference on Disaster Risk Reduction, representatives from 187 countries adopted the ___Sendai Framework for Disaster Risk Reduction 2015–2030___,<sup>16</sup> making it the first major agreement of the post-2015 development agenda. The Framework includes four priorities for action.
+On March 18, 2015, at the Third UN World Conference on Disaster Risk Reduction, representatives from 187 countries adopted the ___Sendai Framework for Disaster Risk Reduction 2015–2030___,<sup>16</sup> making it the first major agreement of the post-2015 development agenda. The Framework includes four priorities for action:
 + .Priority 1: Understanding risk
 + .Priority 2: Strengthening disaster risk governance to manage disaster risk
 + .Priority 3: Investing in disaster risk reduction for resilience
@@ -58,7 +58,7 @@ Regulatory process is accomplished at a very small percentage of total construct
 The cost of establishing and maintaining a functioning regulatory system is dwarfed by the potential cost of disaster losses. Haiti suffered losses equal to 120 percent of the country’s GDP after the devastating earthquake of 2010. Typhoon Yolanda displaced 4 million people, destroyed half a million houses, and pushed more than 2.3 million people back into poverty after hitting the Philippines; consequently, the poverty rate increased nearly 15 percent.<sup>25</sup> Similarly startling statistics apply to many more countries worldwide.
 
 ### Tangible return on investment
-Studies conducted in countries with more established building regulatory regimes consistently show that the benefits of up-to-date building codes outweigh any increase in compliance costs. 
+Studies conducted in countries with more established building regulatory regimes consistently show that the benefits of up-to-date building codes outweigh any increase in compliance costs: 
 + .A study done by the U.S.-based Insurance Institute for Business & Home Safety (IBHS) found that losses from Hurricane Andrew, which hit the states of Florida and Louisiana in 1992, caused more than $20 billion in insured damage. This loss would have been reduced by 50 percent for residential properties, and by 40 percent for commercial properties, if the structures had been built in accordance with Florida’s 2004 statewide building code.<sup>26</sup>
 + .Another IBHS study following Hurricane Charley, which hit Florida in 2004, found that conformance to current building codes reduced the severity of losses by 42 percent and loss frequency by 60 percent.<sup>27</sup>
 Effective building regulatory systems bring about other societal benefits beyond chronic and disaster risk reduction. They can offer high returns for other policy objectives. Energy efficiency and CO2 reduction from buildings is a good case in point: a task force led by the Institute for Market Transformation found that every dollar spent on code compliance and enforcement returns six dollars in energy savings, equivalent to a 600 percent return on investment over time.<sup>28</sup>
