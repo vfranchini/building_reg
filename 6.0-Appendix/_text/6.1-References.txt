@@ -11,6 +11,7 @@ Baldwin, R., B. Hutter, and H. Rothstein. 2000. Risk Regulation, Management and 
 Bamberger, K. A. 2006. “Regulation as Delegation: Private Firms, Decision Making and Accountability in the Administrative State.” Duke Law Journal 56: 377–468. 
 Bilham, R. 2009. “The Seismic Future of Cities.” Bulletin of Earthquake Engineering 7: 839.
 Bilham, R., and N. Ambraseys. 2011. “Corruption Kills.” Nature 469: 153.
+Bin, S. 2012. Third Parties in the Implementation of Building Energy Codes in China. Washington, DC: American Council for an Energy-Efficient Economy and Institute for Market Transformation.
 Blanc, F., and G. Ottimofiore. 2015. “Stakeholders Consultation in the Framework of Regulatory Impact Assessment.” In Handbook of Regulatory Impact Assessment, edited by C. Radaelli and C. Dunlop. Cheltenham, UK: Edward Elgar.
 Blondet, M., J. Vargas, and N. Tarque. 2005. “Building Codes for Earthen Buildings in Seismic Areas: The Peruvian Experience.” Proceedings for the First International Conference Living in Earthen Cities, ITU-Istanbul, Turkey.
 Blondet, M., M. G. Villa Garcia Medina, S. Brzev, and A. Rubiños. 2011. “Earthquake-Resistant Construction of Adobe Buildings: A Tutorial.” 2nd edition. EERI/IAEE World Housing Encyclopedia.
@@ -58,109 +59,104 @@ Kellett, J., and A. Caravani. 2013. Financing Disaster Risk Reduction: A 20 Year
 Kenny, C. 2007. "Construction, Corruption, and Developing Countries." World Bank Policy Research Working Paper 4271.
 Kenny, C.. 2009. "Why do people die in earthquakes? The Costs, benefits and institutions of disaster risk reduction in developing countries." World Bank Policy Research Working Paper.
 Kirchler, E. and E. Hoelzl. 2006. "Modelling Taxpayers’ Behaviour as a Function of Interaction between Tax Authorities and Taxpayers." In Managing and Maintaining Compliance, edited by H. Elffers, H., P. Verboon, W. Huisman. Den Haag: Boom Legal Publishers.
-Kirchler, E. 2007. "The Economic Psychology of Tax Behaviour." Cambridge University Press.
+Kirchler, E. 2007. The Economic Psychology of Tax Behaviour. New York: Cambridge University Press.
 Krimgold, F. 2011. "Disaster risk reduction and the evolution of physical development regulation." Environmental Hazards, 10:1, 53-58.
 Krimgold, F. 1977. Seismic Design Decisions for the Commonwealth of Massachusetts State Building Code. Cambridge: Massachusetts Institute of Technology.
-LaFaive, M., 2001, Looking over Private Inspections. Michigan Privatization Report, 200004, pp. 20-21. 
-Levy, M. & M. Salvadori, 1992, Why Buildings Fall Down. How Structures Fail, New York, W.W. Norton. 
-Lewis, D., and P. Holly Purcell. 2015. “From Disaster Risk Reduction to Resilience: A New Urban Agenda for the 21st Century.” Background paper prepared for the 2015 Global Assessment Report on Disaster Risk Reduction, UNISDR.
-Liu Feng & A.S. Meyer, J.F.Hogan, Mainstreaming Building Energy Efficiency Codes in Developing Countries, World Bank Working Paper, No 204.
-Loesch, J. & D. Hammerman, 1998, Private/public partnerships to ensure building code compliance, in: Facilities, 16, pp. 180-191. 
-Lovegrove, K., 1991, The Primary Building Acts of Australia. A Comparative Study, Sydney, The Federation Press.
-Lovegrove, K., 2015, Key elements which form the basis of effectively functioning building legislation that delivers positive outcomes for all stakeholders. A keynote address at the Australian Institute of Building Surveyors SA 2015 Chapter Conference.
-Lloyd Jones, T., 2006, Mind the gap, Post disaster reconstruction and the transition from humanitarian relief; A report produced for RICS by the Max Lock Center.
-Macrory, R., 2006, Regulatory Justice: Making Sanctions Effective, Better Regulation Executive, Department for Business, Innovation and Skills of the United Kingdom, London, www.bis.gov.uk/files/file44593.pdf.
-Maguire, Lynn A. and Lind E. Allan, 2003, Public participation in environmental decisions: stakeholders, authorities and procedural justice’, International Journal of Global Environmental Issues, volume 3, number 2/2003, pp.133-148.
-May, P. & R. Burby, 1998, Making Sense Out of Regulatory Enforcement, in: Law & Policy, 20, pp. 157-182. 
-May, P.J. & R.S. Wood, 2003, At the Regulatory Front Lines: Inspectors’ Enforcement Styles and Regulatory Compliance, in: Journal of Public Administration Research and Theory, 13, pp. 117-139. 
-May, P.J., 2003, Performance-based Regulation and Regulatory Regimes, paper prepared for the Global Policy Summit on the Role of Performance-Based Building Regulations in Addressing Societal Expectations, International Policy, and Local Needs, National Academy of Sciences, Washington DC, November 3-5, 2003.
-May, P.J., 2007, Regulatory Regimes and Accountability, Journal Compilation, Blackwell Publishing Asia.
-McLean, W.P., 2003, Inspector discretion and industry compliance in the street level implementation of building codes, New Orleans, University of New Orleans. 
-Meacham, B., R. Bowen, J. Traw & A. Moore, 2005, Performance-based building regulation: current situation and future needs, in: Building Research & Information, 33, pp. 91-106. 
-Meijer, F. & H. Visscher, 2006, Deregulation and privatization of European building-control systems?, in: Environment and planning B, Planning & Design, 33, pp. 491-501. 
-Moullier, T., 2013, Good Practices for Construction Regulation and Enforcement Reform, Investment Climate, World Bank Group.
-Moullier, T., 2015, Building and Land Use Regulatory Implementation and Compliance at the Local Level, a priority for the post-2015 framework for disaster risk reduction, GFDRR, The World Bank Group.
-Napier, M.,2002, The Origin and Spread of Core Housing, Urban LandMark.
-Narafu, T., Ishiyama, Y., Okazaki K., Ando S., Imai, H., Pribadi, K., Dixit, A., Ahmad, N., Ali, Q., Turer, A., 2010, A Proposal for a Comprehensive Approach to safer Non-engineered Houses, Journal of Asian Architecture and Building Engineering 2010/322.
-Narafu, T., Ishiwatari, M., 2013, Building Performance, Knowledge Note, World Bank.
-Narafu, T., Okazaki, K., 2007, Housing Reconstruction Practices in Aceh, Indonesia, Journal of Architecture and Planning.
-Narafu, T., et al, 2008, Basic Study for Bridge between Engineering and Construction Practice of Non-engineered Houses, Proceedings of 14th World Conference of Earthquake Engineering (14WCEE).
-Narafu, T., Okazaki, K., 2005, A Strategic Approach to Disseminate Appropriate (building) Technologies to People, Proceedings of SismoAdobe Conference in Lima, Peru.
-Navarette, J. Fergusson, B., 2003, A financial framework for reducing slums: Lessons from experience in Latin America, Environment and Urabnization, Vol 15, No2, October 2003.
-Olken, B., 2007, Monitoring Corruption: Evidence from a field experiment in Indonesia, Journal of Political Economy, Vol 115 No2.
-Papadopoulos, Aris. 2016. Resilience - The Ultimate Sustainability. Resilience Action Fund Publisher. 2nd edition.    
-Parajuli, Y., Bothara, J., Dixit, A., Pradhan, J., Sharpe, R., 2000, Nepal Building Code—Need, Development Philosophy and Means of Implementation.
-Payne, G., 2001, The Impact of Regulation on the Livelihoods of the Poor, paper prepared for the ITDG research project “Regulatory Guidelines for Urban Upgrading”.
-Payne, G., Majale, M., 2004, The Urban Housing Manual, Making Regulatory Frameworks Work for the Poor, Earthscan.
-Parker, C., 2000, Reinventing Regulation Within the Corporation: Compliance-Oriented Regulatory Innovation, in: Administration & Society, 32, pp. 529-565. 
-Pelling M., Wisner, B., 2009, Disaster Risk Reduction: Cases from Urban Africa, ProVention Consortium, UNDP & UN-Habitat.
-Pheng, L.S. & D. Wee, 2001, Improving maintenance and reducing building defects through ISO 9000, in: Journal of Quality in Maintenance Engineering, 7, pp. 6-24. 
-Reis, Yelda Kirbay. 2015. “Increasing the Efficiency of Development Planning & Building Permit Processes in the Municipalities.” http://www.journalagent.com/planlama/pdfs/PLAN-83792-OPINION_LETTER-REIS.pdf.
-Rojas, E., 2015, Housing Policies, Quality of Housing & Urban Development: Lessons for the Latin American Experience, paper prepared for presentation at the 2015 World Bank Conference on Land and Poverty, Washington DC.
-Schilderman, T., Lowe, L., 2002, The Impact of Regulations on Urban Development and the Livelihoods of the Urban Poor, ITDG, London.
-Schilderman, T., Parker, E., 2014, Still Standing, Looking Back at Reconstruction and Disaster Risk Reduction in Housing, Practical Action Publishing.
-Ruskulis, O., 2003, Making Change Happen: Reforming Inappropriate and Restrictive Regulatory Frameworks, workshop of the DFID KAR Project, Leamington, UK.
-Tyler, Tom R., 1988, What Is Procedural Justice? Criteria Used by Citizens to Assess the Fairness of Legal Procedures, Law and Society Review 22:103-35.
-Tyler, Tom R., 1990, Why People Obey the Law, New Haven, Conn.: Yale University.
-Tyler, Tom R., and E. Allan Lind, 1992, A Relational Model of Authority in Groups, In Advances in Experimental Social Psychology vol. 25, edited by M.Zanna. New York: Academic.
-Tyler, Tom R., 2003, Procedural Justice, Legitimacy, and the Effective Rule of Law’, Crime and Justice, volume 30, pp. 283-357.
-Shui Bin, 2012, Third Parties in the Implementation of Building Energy Codes in China, American Council for an Energy-Efficient Economy & Institute for Market Transformation.
-Sparrow, M.K., 2000, The Regulatory Craft. Controlling Risks, Solving Problems, and Managing Compliance, Harrisonburg, R.R. Donnelley and Sons. 
-Sparrow, M.K., 2008, The Character of Harms. Operational Challenges in Control, Cambridge; New York, Cambridge University Press. 
-Spence, R., 2004, Risk and regulation: can improved government action reduce the impacts of natural disasters? Building Research & Information, 32, pp. 391-402. 
-Starossek, U., 2006, Progressive Collapse of Structures: Nomenclature and Procedures, in: Structural Engineering International, 16, pp. 113-117. 
-UNCRD (United Nations Centre for Regional Development). 2008. “Handbook: Building Code Implementation—Learning from Experience of Lalitpur Sub-Metropolitan City, Nepal.” 
-UN General Assembly. 2014. Third United Nations World Conference on Disaster Risk Reduction. “Compilation Report on Consultations on the Post-2015 Framework for Disaster Risk Reduction” A/CONF.224/PC(I)/5, May 21.
-UNISDR (United Nations International Strategy for Disaster Risk Reduction). 2012. “UNISDR Counts the Cost of 20 Years of Inaction on Climate Change and Risk Reduction.” June 13. http://www.unisdr.org/archive/27162. 
+LaFaive, M. 2001. "Looking over Private Inspections." Michigan Privatization Report, 20-21. 
+Levy, M., and M. Salvadori. 1992. Why Buildings Fall Down: How Structures Fail. New York: W.W. Norton & Company. 
+Lewis, D., and P. H. Purcell. 2015. “From Disaster Risk Reduction to Resilience: A New Urban Agenda for the 21st Century.” Background paper prepared for the 2015 Global Assessment Report on Disaster Risk Reduction, UNISDR.
+Liu F., A.S. Meyer, and J.F.Hogan. "Mainstreaming Building Energy Efficiency Codes in Developing Countries." World Bank Working Paper No 204.
+Loesch, J., and D. Hammerman. 1998. "Private/public partnerships to ensure building code compliance." Facilities, 14, 28-38. 
+Lovegrove, K. 1991. The Primary Building Acts of Australia. A Comparative Study. Sydney: The Federation Press.
+Lovegrove, K. 2015. "Key elements which form the basis of effectively functioning building legislation that delivers positive outcomes for all stakeholders." A keynote address at the Australian Institute of Building Surveyors SA 2015 Chapter Conference.
+Lloyd-Jones, T. 2006. Mind the gap! Post disaster reconstruction and the transition from humanitarian relief. RICS.
+Macrory, R. 2006. "Regulatory Justice: Making Sanctions Effective." London: Better Regulation Executive, Department for Business, Innovation and Skills of the United Kingdom.
+Maguire, L. A., and E. A. Lind. 2003. "Public participation in environmental decisions: Stakeholders, authorities and procedural justice." International Journal of Global Environmental Issues, 3, 2/2003, 133-148.
+May, P., and R. Burby. 1998. "Making Sense Out of Regulatory Enforcement." Law & Policy, 20, 157-182. 
+May, P., and R. S. Wood. 2003. "At the Regulatory Front Lines: Inspectors’ Enforcement Styles and Regulatory Compliance." Journal of Public Administration Research and Theory, 13, 117-139. 
+May, P. 2003. "Performance-based Regulation and Regulatory Regimes." Paper prepared for the Global Policy Summit on the Role of Performance-Based Building Regulations in Addressing Societal Expectations, International Policy, and Local Needs, Washington DC, November 3-5, 2003, National Academy of Sciences.
+May, P. 2007. "Regulatory Regimes and Accountability." Regulation & Governance, 1, 8-26.
+McLean, W. 2003. Inspector Discretion and Industry Compliance in the Street-Level Implementation of Building Codes. New Orleans: University of New Orleans. 
+Meacham, B., R. Bowen, J. Traw, and A. Moore. 2005. "Performance-based building regulation: current situation and future needs." Building Research & Information, 33, 91-106. 
+Meijer, F., and H. Visscher. 2006. "Deregulation and privatization of European building-control systems?" Environment and Planning B: Planning and Design, 33, 491-501. 
+Moullier, T. 2013. Good Practices for Construction Regulation and Enforcement Reform. Guidelines for Reformers. Washington, DC: World Bank Group.
+Moullier, T. 2015. "Building & Land Use Regulatory Implementation and Compliance at the Local Level. A Priority for the Post-2015 Framework for Disaster Risk Reduction." GFDRR/World Bank position paper.
+Napier, M. 2002. "The Origin and Spread of Core Housing." In Core Housing, Enablement and Urban Poverty: The Consolidation Paths of Households Living in Two South African Settlements. Newcastle upon Tyne: Newcastle University. 
+Narafu, T., Y. Ishiyama, K. Okazaki, S. Ando, H. Imai, K. Pribadi, A. Dixit, N. Ahmad, Q. Ali, and A. Turer. 2010. "A Proposal for a Comprehensive Approach to Safer Non-Engineered Houses." Journal of Asian Architecture and Building Engineering, 9(2): 315-322.
+Narafu, T., and M. Ishiwatari. 2013. "Building Performance." World Bank Knowledge Note.
+Narafu, T., and K. Okazaki. 2007. "Housing Reconstruction Practices in Aceh, Indonesia." Journal of Architecture, Planning and Environmental Engineering, 257-262.
+Narafu, T., H. Imai, S. Matsuzaki, K. Sakoda, F. Matsumura, and Y. Ishiyama. 2008. "Basic Study for Bridge between Engineering and Construction Practice of Non-Engineered Houses." Proceedings of 14th World Conference of Earthquake Engineering, Beijing, China, October 12-17, 2008.
+Narafu, T., and K. Okazaki. 2005. "A Strategic Approach to Disseminate Appropriate (building) Technologies to People." Proceedings of SismoAdobe Conference, Lima, Peru.
+Navarette, J., and B. Fergusson. 2003. "A Financial Framework for Reducing Slums: Lessons from Experience in Latin America." Environment and Urbanization, 15, No 2, 201-216.
+Olken, B. 2007. "Monitoring Corruption: Evidence from a Field Experiment in Indonesia." Journal of Political Economy, 115, No 2, 200-249.
+Papadopoulos, A. 2016. Resilience. The Ultimate Sustainability. Resilience Action Fund Publisher. 2nd edition.    
+Parajuli, Y., J. Bothara, A. Dixit, J. Pradhan, and R. Sharpe. 2000. "Nepal Building Code—Need, Development Philosophy and Means of Implementation." WCEE Conference, Auckland, New Zealand.
+Payne, G. 2001. "The Impact of Regulation on the Livelihoods of the Poor." Paper prepared for the ITDG research project 'Regulatory Guidelines for Urban Upgrading.'
+Payne, G., and M. Majale. 2004. The Urban Housing Manual, Making Regulatory Frameworks Work for the Poor. UK and USA: Taylor and Francis.
+Parker, C. 2000. "Reinventing Regulation Within the Corporation: Compliance-Oriented Regulatory Innovation." Administration & Society, 32, No 5, 529-565. 
+Pelling M., and B. Wisner. 2009. Disaster Risk Reduction: Cases from Urban Africa. UK and USA: Taylor and Francis.
+Pheng, L.S. and D. Wee. 2001. "Improving maintenance and reducing building defects through ISO 9000." Journal of Quality in Maintenance Engineering, 7, 6-24. 
+Reis, Y. K. 2014. “Improving Building Permit Procedures in Municipalities.” Planama, 24(2): 55-63.
+Rojas, E. 2015. "Housing Policies, Quality of Housing & Urban Development: Lessons from the Latin American Experience, 1960-2010." Paper prepared for presentation at the 2015 World Bank Conference on Land and Poverty, Washington DC.
+Schilderman, T., and L. Lowe. 2002. "The Impact of Regulations on Urban Development and the Livelihoods of the Urban Poor." London: ITDG.
+Schilderman, T., and E. Parker. 2014. Still Standing? Looking Back at Reconstruction and Disaster Risk Reduction in Housing. Rugby: Practical Action Publishing.
+Ruskulis, O. 2003. "Making Change Happen: Reforming Inappropriate and Restrictive Regulatory Frameworks." Paper for Workshop of the DFID KAR Project - Regulatory Guidelines for Urban Upgrading, 22-24 September, Leamington, UK.
+Tyler, T. R. 1988. "What Is Procedural Justice? Criteria Used by Citizens to Assess the Fairness of Legal Procedures." Law and Society Review, 22, No 1, 103-136.
+Tyler, T. R. 1990. Why People Obey the Law. New Haven: Yale University.
+Tyler, T. R., and E. A. Lind. 1992. "A Relational Model of Authority in Groups." In Advances in Experimental Social Psychology, Vol 25 edited by M. Zanna. New York: Academic.
+Tyler, T. R. 2003. "Procedural Justice, Legitimacy, and the Effective Rule of Law." Crime and Justice, 30, 283-357.
+Sparrow, M.K. 2000. The Regulatory Craft. Controlling Risks, Solving Problems, and Managing Compliance. Washington, DC: Brookings Institution Press. 
+Sparrow, M.K.. 2008. The Character of Harms. Operational Challenges in Control. Cambridge: Cambridge University Press. 
+Spence, R. 2004. "Risk and regulation: can improved government action reduce the impacts of natural disasters?" Building Research & Information, 32, No 5, 391-402. 
+Starossek, U. 2006. "Progressive Collapse of Structures: Nomenclature and Procedures." Structural Engineering International, 16, 113-117. 
+UNCRD (United Nations Centre for Regional Development). 2008. “Handbook: Building Code Implementation—Learning from Experience of Lalitpur Sub-Metropolitan City, Nepal.” Kobe, Hyogo: United Nations Centre for Regional. Development Disaster Risk Management Planning Hyogo Office
+UN General Assembly. 2014. “Compilation Report on Consultations on the Post-2015 Framework for Disaster Risk Reduction.” Third United Nations World Conference on Disaster Risk Reduction.
+UNISDR (United Nations International Strategy for Disaster Risk Reduction). 2012. “UNISDR Counts the Cost of 20 Years of Inaction on Climate Change and Risk Reduction.” UNISDR, June 13, 2012. http://www.unisdr.org/archive/27162.
 UNISDR (United Nations International Strategy for Disaster Risk Reduction). 2015. Making Development Sustainable: The Future of Disaster Risk Management. Global Assessment Report on Disaster Risk Reduction. Geneva: UNISDR.
-UNISDR (United Nations International Strategy for Disaster Risk Reduction). 2015. Sendai Framework for Disaster Risk Reduction 2015–2030.
-http://www.unisdr.org/we/inform/publications/43291.
-Vaughan, E. & Turner, J., 2013, The Value and Impact of Building Codes, Building Standards Journal.
-Van den Bos, K., van der Velden, L,  E. Allan Lind, 2014, On the Role of Perceived Procedural Justice in Citizens' Reactions to Government Decisions and the Handling of Conflicts, Utrecht Law Review, Volume 10, Issue 4, November 2014 – available at: http://www.utrechtlawreview.org/index.php/ulr/article/view/287.
-Van der Heijden, J., 2008, Competitive Enforcement. Comparative analysis of Australian building regulatory enforcement regimes, Amsterdam, IOS Press. 
-Van der Heijden, J., 2009, Building Regulatory Enforcement Regimes, Comparative Analysis of Private Sector Involvement in the Enforcement of Public Building Regulations (thesis), Delft University of Technology.
-Van der Heijden, J., 2009 International comparative analysis of building regulation: an analytical tool, in: International Journal of Law in the Built Environment. 
-Van der Heijden, J. & J. De Jong, forthcoming, Towards a better understanding of building regulation, in: Environment and Planning B: Planning and Design. 
-Winter, S.C. & P.J. May, 2001, Motivation for Compliance with Environmental Regulations, in: Journal of Policy Analysis and Management, 20, pp. 675-698. 
+UNISDR (United Nations International Strategy for Disaster Risk Reduction). 2015. Sendai Framework for Disaster Risk Reduction 2015–2030. Geneva: UNISDR.
+Vaughan, E., and J. Turner. 2013. "The Value and Impact of Building Codes." Environmental and Energy Study Institute, September 30, 2013. http://www.eesi.org/papers/view/the-value-and-impact-of-building-codes.
+Van den Bos, K., L. van der Velden, and E. A. Lind. 2014. "On the Role of Perceived Procedural Justice in Citizens' Reactions to Government Decisions and the Handling of Conflicts." Utrecht Law Review, 10, No 4, 1-26.
+Van der Heijden, J. 2008. Competitive Enforcement. Comparative analysis of Australian building regulatory enforcement regimes. Amsterdam: IOS Press. 
+Van der Heijden, J. 2009. "Building Regulatory Enforcement Regimes. Comparative Analysis of Private Sector Involvement in the Enforcement of Public Building Regulations." PhD thesis, Delft University of Technology.
+Van der Heijden, J. 2009. "International Comparative Analysis of Building Regulation: An Analytical Tool." International Journal of Law in the Built Environment, 1(1), 9-25. 
+Van der Heijden, J., and J. De Jong. "Towards a Better Understanding of Building Regulation." Environment and Planning B: Planning and Design, 36(6), 1038-1052. 
+Winter, S.C., and P.J. May. 2001. "Motivation for Compliance with Environmental Regulations" Journal of Policy Analysis and Management, 20, 675-698. 
 World Bank. 2013. Building Resilience: Integrating Climate and Disaster Risk into Development. Washington, DC: World Bank Group.
 World Bank. 2014. Doing Business 2015: Going Beyond Efficiency. Washington, DC: World Bank Group.
-World Bank. 2015. East Asia’s Changing Urban Landscape: Measuring a Decade of Spatial Growth. Washington, DC: World Bank.
+World Bank. 2015. East Asia’s Changing Urban Landscape: Measuring a Decade of Spatial Growth. Washington, DC: World Bank Group.
 World Bank and United Nations. 2010. Natural Hazards, Unnatural Disasters: The Economics of Effective Prevention. Washington, DC: World Bank.
-Yanev, P. It is not too late: Preparing for Asia’s next big earthquake, 2010, The World Bank Group, GFDRR.
-Yahya, S., Agevi, E., Lowe, L., Mugova., A, Musandu-Nyamayaro, O.,  Schilderman, T., 2001, Double Standards, Single Purpose: Reforming Housing Regulations to Reduce Poverty, ITDG Publishing, London.
-Yu, S. & M. Evans, P. Kumar, L. Van Wie, V. Bhatt, Using Third Party Inspectors in Building Energy Codes Enforcement, US Department of Energy, 2013.
+Yanev, P. 2010. "It is not too late: Preparing for Asia’s Next Big Earthquake." World Bank and GFDRR Policy Note.
+Yahya, S., E. Agevi, L. Lowe, A. Mugova, O. Musandu-Nyamayaro, and T. Schilderman. 2001. Double Standards, Single Purpose: Reforming Housing Regulations to Reduce Poverty. London: ITDG Publishing.
+Yu, S., M. Evans, P. Kumar, L. Van Wie, and V. Bhatt. 2013. "Using Third Party Inspectors in Building Energy Codes Enforcement." US Department of Energy.
 
 ### Other resources
 
-Australian Building Codes Board (ABCB), 2002, The Performance Building Code of Australia; A Study of its Development.
-Better Regulation Executive, 2008, Improving Outcomes from Health and Safety – A Report to the Government by the Better Regulation Executive, UK Department for Business, Enterprise and Regulatory Reform, London, www.bis.gov.uk/files/file47324.pdf.
-BRRAG, 2000, Knowledge, Accountability, Streamlining: Cornerstones for a New Building Regulatory System in Ontario, Toronto, Building Regulatory Reform Advisory Group. 
-Building codes for stronger and safer America, 2013, Post Event Report, Build Strong Coalition, Presented by Booz Allen Hamilton.
-Communities and Local Government (UK), 2008, The Future of Building Control, Consultation, Communities and Local Government Publications.
-Canadian Home Builders Association (CHBA), 2001, Reform of Building Regulations – What do members think?
-Doing Business Report 2014: Understanding Regulations for Small and Medium-Size Enterprises, World Bank Group.
-Hemson Consulting, 2008, Examination of recent reforms to the Building Code Act and the Building Permit Process in the GTA, Toronto, Hemson Consulting.
-International Code Council (ICC), 2015 International Building Code. Code & Commentary, New York, Thomson Delmar Learning.
-International Code Council (ICC), International Accreditation Service (IAS), 2012, Building Department Administration – 4th Edition.
-International Federation of Red Cross and Red Crescent Societies (IFRC), 2013, Better Laws, Safer Communities? Emerging Themes on How Legislation Can Support Disaster Risk Reduction.
-International Association of Fire and Rescue Services (CTIF), 2015, annual report.
-Insurance Institute for Business and Home Safety (IBHS), 2011, Rating the States, An assessment of residential building code and enforcement systems for life safety and property protection in hurricane- prone regions.
-McKinsey Global Institute, 2014, A Blueprint for Addressing the Global Affordable Housing Challenge.
-Multi Hazard mitigation Council, 2005, Natural hazard mitigation saves: An independent study to assess the future savings from mitigation activities. Volume 1, Findings, conclusions and recommendations.
-OECD and APEC (2005), APEC-OECD Integrated Checklist on Regulatory Reform, OECD and APEC, Paris and Singapore, www.oecd.org/regreform/34989455.pdf. 
-OECD (2005), OECD Guiding Principles for Regulatory Quality and Performance, Paris.
-OECD (2010), Risk and Regulatory Policy – Improving the Governance of Risk, Paris.
-OECD (2012), Recommendation of the Council on Regulatory Quality and Performance, Paris.
-OECD (2014), Regulatory
-
- Enforcement and Inspections – Best Practice Principles for Regulatory Policy, Paris, OECD.
-Transparency International. 2005. Global Corruption Report: Corruption in Construction and Post-Conflict Reconstruction. 
-Transparency International, Bribes Payer Index, 2011.
-UNCRD, 2008, From Code to Practice, Challenges for Building Code Implementation and the Further Direction of Housing Earthquake Safety, Records and outcomes of international symposium 2008 on Earthquake Safe Housing, Tokyo, Japan.
-UN-Habitat, 2008, Municipal Financing and Urban Development.
-UN-Habitat & GLTN, 2008, Secure Land Rights for All.
-World Risk Report, 2014 Alliance development works, UN University for Environment and Human Security.
-World Bank Group, 2006, Good Practices for Business Inspections - Guidelines for Reformers, Washington, DC, www.ifc.org/ifcext/sme.nsf/AttachmentsByTitle/
+ABCB (Australian Building Codes Board) (ABCB). 2002. "The Performance Building Code of Australia; A Study of its Development." ABCB.
+Better Regulation Executive. 2008. "Improving Outcomes from Health and Safety. A Report to the Government by the Better Regulation Executive." UK Department for Business, Enterprise and Regulatory Reform.
+Booz Allen Hamilton. 2013. "Building codes for stronger and safer America. Post Event Report." Build Strong Coalition.
+BRRAG (Building Regulatory Reform Advisory Group). 2000. "Knowledge, Accountability, Streamlining: Cornerstones for a New Building Regulatory System in Ontario." BRRAG. 
+CHBA (Canadian Home Builders Association). 2001. "Reform of Building Regulations – What do members think?" CHBA.
+CTIF (International Association of Fire and Rescue Services). 2015. Annual Report. CTIF.
+Department for Communities and Local Government. 2008. "The Future of Building Control." UK Communities and Local Government Publications.
+Hemson Consulting. 2008. "Examination of Recent Reforms to the Building Code Act and the Building Permit Process in the GTA." Hemson Consulting Ltd.
+IBHS (Insurance Institute for Business and Home Safety). 2011. Rating the States. An Assessment of Residential Building Code and Enforcement Systems for Life Safety and Property Protection in Hurricane-prone Regions. IBHS.
+ICC (International Code Council). 2015. 2015 International Building Code. Code & Commentary. New York: Thomson Delmar Learning.
+ICC. 2012. "International Accreditation Service (IAS)." Building Department Administration, 4th edition.
+IFRC (International Federation of Red Cross and Red Crescent Societies). 2013. "Better Laws, Safer Communities? Emerging Themes on How Legislation Can Support Disaster Risk Reduction." IFRC.
+McKinsey Global Institute. 2014. A Blueprint for Addressing the Global Affordable Housing Challenge. McKinsey&Company. 
+MMC (Multi Hazard Mitigation Council). 2005. "Natural Hazard Mitigation Saves: An Independent Study to Assess the Future Savings from Mitigation Activities. Volume 1 - Findings, Conclusions, and Recommendations." MMC.
+OECD (Organisation for Economic Co-operation and Development) and APEC (Asia-Pacific Economic Cooperation). 2005. "APEC-OECD Integrated Checklist on Regulatory Reform." OECD and APEC.
+OECD. 2005. "OECD Guiding Principles for Regulatory Quality and Performance." OECD.
+OECD. 2010. Risk and Regulatory Policy – Improving the Governance of Risk. Paris: OECD Publishing.
+OECD. 2012. "Recommendation of the Council on Regulatory Quality and Performance." OECD.
+OECD. 2014. Regulatory Enforcement and Inspections – Best Practice Principles for Regulatory Policy. Paris: OECD Publishing.
+Transparency International. 2005. Global Corruption Report: Corruption in Construction and Post-Conflict Reconstruction. London: Pluto Press. 
+Transparency International. 2011. "Bribes Payer Index." Transparency International. https://www.transparency.org/research/bpi/.
+UNCRD (United Nations Centre for Regional Development). 2009. "From Code to Practice. Challenges for Building Code Implementation And the Further Direction of Housing Earthquake Safety." Records and outcomes of International Symposium 2008 on Earthquake Safe Housing, 28-29 November, Tokyo, Japan.
+UN-Habitat (United Nations Human Settlements Programme). 2008. Municipal Financing and Urban Development. Nairobi: UN-HABITAT.
+UN-Habitat and GLTN (Global Land Tool Network). 2008. Secure Land Rights for All. Nairobi: UN-HABITAT.
+United Nations University. 2014. "World Risk Report." Alliance Development Works, UN University, Institute for Environment and Human Security.
+World Bank. 2006. Good Practices for Business Inspections - Guidelines for Reformers, Washington, DC, www.ifc.org/ifcext/sme.nsf/AttachmentsByTitle/
 BEEGood+Practices+for+Business+Inspection/
 $FILE/Bus+Inspect+Book.pdf.
 World Bank Group, 2011, How to Reform Business Inspections: Design, Implementation, Challenges, World Bank Group, Washington DC.
@@ -168,5 +164,6 @@ World Bank Group, 2010, Regulatory Governance in Developing Countries, Investmen
 World Bank Enterprise Survey, http://www.enterprisesurveys.org/.
 World Bank Group (IFC), 2013, Turkey Green Buildings Market Study.
 World Bank Group, 2012, Managing Disaster Risk for a Resilient Future, GFDRR.
+World Bank. 2014. "Doing Business Report 2014: Understanding Regulations for Small and Medium-Size Enterprises." World Bank Group.
 World Bank Group, 2014, Pakistan Earthquake 2005, The Case of Centralized Recovery Planning and Decentralized Implementation, 2014, GFDRR.
 World Bank Group, 2015, Case Study: Institutional Arrangements and Construction Permitting Process in Tacloban City and Tagbilaran City in the Philippines – A Comparative Analysis, GFDRR.
