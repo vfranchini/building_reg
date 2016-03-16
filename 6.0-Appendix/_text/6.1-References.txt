@@ -105,6 +105,7 @@ Tyler, T. R. 1988. "What Is Procedural Justice? Criteria Used by Citizens to Ass
 Tyler, T. R. 1990. Why People Obey the Law. New Haven: Yale University.
 Tyler, T. R., and E. A. Lind. 1992. "A Relational Model of Authority in Groups." In Advances in Experimental Social Psychology, Vol 25 edited by M. Zanna. New York: Academic.
 Tyler, T. R. 2003. "Procedural Justice, Legitimacy, and the Effective Rule of Law." Crime and Justice, 30, 283-357.
+Shepherd, A., T. Mitchell, K. Lewis, A. Lenhardt, L. Jones, L. Scott, and R. Muir-Wood. 2013. The Geography of Poverty, Disasters and Climate Extremes in 2030. London: Overseas Development Institute.
 Sparrow, M.K. 2000. The Regulatory Craft. Controlling Risks, Solving Problems, and Managing Compliance. Washington, DC: Brookings Institution Press. 
 Sparrow, M.K.. 2008. The Character of Harms. Operational Challenges in Control. Cambridge: Cambridge University Press. 
 Spence, R. 2004. "Risk and regulation: can improved government action reduce the impacts of natural disasters?" Building Research & Information, 32, No 5, 391-402. 
@@ -135,14 +136,17 @@ ABCB (Australian Building Codes Board) (ABCB). 2002. "The Performance Building C
 Better Regulation Executive. 2008. "Improving Outcomes from Health and Safety. A Report to the Government by the Better Regulation Executive." UK Department for Business, Enterprise and Regulatory Reform.
 Booz Allen Hamilton. 2013. "Building codes for stronger and safer America. Post Event Report." Build Strong Coalition.
 BRRAG (Building Regulatory Reform Advisory Group). 2000. "Knowledge, Accountability, Streamlining: Cornerstones for a New Building Regulatory System in Ontario." BRRAG. 
+CAPRA (Probabilistic Risk Assessment Program) and GFDRR (Global Facility for Disaster Reduction and Recovery). 2012. "Peru and the Mapping of Seismic Hazard." CAPRA Project Highlights, Issue 14. http://www.ecapra.org/sites/default/files/documents/PH_Issue_14_CAPRA_PERU_WEB5.pdf.
 CHBA (Canadian Home Builders Association). 2001. "Reform of Building Regulations – What do members think?" CHBA.
 CTIF (International Association of Fire and Rescue Services). 2015. Annual Report. CTIF.
 Department for Communities and Local Government. 2008. "The Future of Building Control." UK Communities and Local Government Publications.
+EQE. 1999. "Izmit, Turkey Earthquake of August 17, 1999 (M7.4)." EQE.
 Hemson Consulting. 2008. "Examination of Recent Reforms to the Building Code Act and the Building Permit Process in the GTA." Hemson Consulting Ltd.
 IBHS (Insurance Institute for Business and Home Safety). 2011. Rating the States. An Assessment of Residential Building Code and Enforcement Systems for Life Safety and Property Protection in Hurricane-prone Regions. IBHS.
 ICC (International Code Council). 2015. 2015 International Building Code. Code & Commentary. New York: Thomson Delmar Learning.
 ICC. 2012. "International Accreditation Service (IAS)." Building Department Administration, 4th edition.
 IFRC (International Federation of Red Cross and Red Crescent Societies). 2013. "Better Laws, Safer Communities? Emerging Themes on How Legislation Can Support Disaster Risk Reduction." IFRC.
+IRIN News. 2013. "Zimbabwe's urban housing crisis." IRIN News, March 8, 2013. http://www.irinnews.org/news/2013/03/08/zimbabwes-urban-housing-crisis.
 McKinsey Global Institute. 2014. A Blueprint for Addressing the Global Affordable Housing Challenge. McKinsey&Company. 
 MMC (Multi Hazard Mitigation Council). 2005. "Natural Hazard Mitigation Saves: An Independent Study to Assess the Future Savings from Mitigation Activities. Volume 1 - Findings, Conclusions, and Recommendations." MMC.
 OECD (Organisation for Economic Co-operation and Development) and APEC (Asia-Pacific Economic Cooperation). 2005. "APEC-OECD Integrated Checklist on Regulatory Reform." OECD and APEC.
@@ -156,14 +160,12 @@ UNCRD (United Nations Centre for Regional Development). 2009. "From Code to Prac
 UN-Habitat (United Nations Human Settlements Programme). 2008. Municipal Financing and Urban Development. Nairobi: UN-HABITAT.
 UN-Habitat and GLTN (Global Land Tool Network). 2008. Secure Land Rights for All. Nairobi: UN-HABITAT.
 United Nations University. 2014. "World Risk Report." Alliance Development Works, UN University, Institute for Environment and Human Security.
-World Bank. 2006. Good Practices for Business Inspections - Guidelines for Reformers, Washington, DC, www.ifc.org/ifcext/sme.nsf/AttachmentsByTitle/
-BEEGood+Practices+for+Business+Inspection/
-$FILE/Bus+Inspect+Book.pdf.
-World Bank Group, 2011, How to Reform Business Inspections: Design, Implementation, Challenges, World Bank Group, Washington DC.
-World Bank Group, 2010, Regulatory Governance in Developing Countries, Investment Climate Advisory Services.
-World Bank Enterprise Survey, http://www.enterprisesurveys.org/.
-World Bank Group (IFC), 2013, Turkey Green Buildings Market Study.
-World Bank Group, 2012, Managing Disaster Risk for a Resilient Future, GFDRR.
+World Bank. 2006. "Good Practices for Business Inspections: Guidelines for Reformers." Washington, DC: World Bank Group.
+World Bank. 2011. How to Reform Business Inspections: Design, Implementation, Challenges. Washington, DC: World Bank Group.
+World Bank. 2010. Regulatory Governance in Developing Countries. Washington, DC: World Bank Group.
+World Bank Enterprise Survey. http://www.enterprisesurveys.org/.
+World Bank and IFC (International Finance Corporation). 2013. Turkey Green Buildings Market Study. World Bank Group.
+World Bank. 2012. Managing Disaster Risk for a Resilient Future. GFDRR and World Bank Group.
 World Bank. 2014. "Doing Business Report 2014: Understanding Regulations for Small and Medium-Size Enterprises." World Bank Group.
-World Bank Group, 2014, Pakistan Earthquake 2005, The Case of Centralized Recovery Planning and Decentralized Implementation, 2014, GFDRR.
-World Bank Group, 2015, Case Study: Institutional Arrangements and Construction Permitting Process in Tacloban City and Tagbilaran City in the Philippines – A Comparative Analysis, GFDRR.
+World Bank. 2014. "Pakistan Earthquake 2005. The Case of Centralized Recovery Planning and Decentralized Implementation." GFDRR and World Bank Group.
+World Bank. 2015. "Case Study: Institutional Arrangements and Construction Permitting Process in Tacloban City and Tagbilaran City in the Philippines – A Comparative Analysis." GFDRR and World Bank Group.
