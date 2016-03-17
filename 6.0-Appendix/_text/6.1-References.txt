@@ -137,25 +137,25 @@ Better Regulation Executive. 2008. "Improving Outcomes from Health and Safety. A
 Booz Allen Hamilton. 2013. "Building codes for stronger and safer America. Post Event Report." Build Strong Coalition.
 BRRAG (Building Regulatory Reform Advisory Group). 2000. "Knowledge, Accountability, Streamlining: Cornerstones for a New Building Regulatory System in Ontario." BRRAG. 
 CAPRA (Probabilistic Risk Assessment Program) and GFDRR (Global Facility for Disaster Reduction and Recovery). 2012. "Peru and the Mapping of Seismic Hazard." CAPRA Project Highlights, Issue 14. http://www.ecapra.org/sites/default/files/documents/PH_Issue_14_CAPRA_PERU_WEB5.pdf.
-CHBA (Canadian Home Builders Association). 2001. "Reform of Building Regulations – What do members think?" CHBA.
-CTIF (International Association of Fire and Rescue Services). 2015. Annual Report. CTIF.
+CHBA (Canadian Home Builders Association). 2001. "Reform of Building Regulations – What do members think?"
+CTIF (International Association of Fire and Rescue Services). 2015. Annual Report. 
 Department for Communities and Local Government. 2008. "The Future of Building Control." UK Communities and Local Government Publications.
-EQE. 1999. "Izmit, Turkey Earthquake of August 17, 1999 (M7.4)." EQE.
+EQE. 1999. "Izmit, Turkey Earthquake of August 17, 1999 (M7.4)." 
 Hemson Consulting. 2008. "Examination of Recent Reforms to the Building Code Act and the Building Permit Process in the GTA." Hemson Consulting Ltd.
-IBHS (Insurance Institute for Business and Home Safety). 2011. Rating the States. An Assessment of Residential Building Code and Enforcement Systems for Life Safety and Property Protection in Hurricane-prone Regions. IBHS.
+IBHS (Insurance Institute for Business and Home Safety). 2011. "Rating the States. An Assessment of Residential Building Code and Enforcement Systems for Life Safety and Property Protection in Hurricane-prone Regions." Tampa: Insurance Institute for Business and Home Safety.
 ICC (International Code Council). 2015. 2015 International Building Code. Code & Commentary. New York: Thomson Delmar Learning.
 ICC. 2012. "International Accreditation Service (IAS)." Building Department Administration, 4th edition.
-IFRC (International Federation of Red Cross and Red Crescent Societies). 2013. "Better Laws, Safer Communities? Emerging Themes on How Legislation Can Support Disaster Risk Reduction." IFRC.
+IFRC (International Federation of Red Cross and Red Crescent Societies). 2013. "Better Laws, Safer Communities? Emerging Themes on How Legislation Can Support Disaster Risk Reduction."
 IRIN News. 2013. "Zimbabwe's urban housing crisis." IRIN News, March 8, 2013. http://www.irinnews.org/news/2013/03/08/zimbabwes-urban-housing-crisis.
 McKinsey Global Institute. 2014. A Blueprint for Addressing the Global Affordable Housing Challenge. McKinsey&Company. 
-MMC (Multi Hazard Mitigation Council). 2005. "Natural Hazard Mitigation Saves: An Independent Study to Assess the Future Savings from Mitigation Activities. Volume 1 - Findings, Conclusions, and Recommendations." MMC.
-OECD (Organisation for Economic Co-operation and Development) and APEC (Asia-Pacific Economic Cooperation). 2005. "APEC-OECD Integrated Checklist on Regulatory Reform." OECD and APEC.
-OECD. 2005. "OECD Guiding Principles for Regulatory Quality and Performance." OECD.
-OECD. 2010. Risk and Regulatory Policy – Improving the Governance of Risk. Paris: OECD Publishing.
-OECD. 2012. "Recommendation of the Council on Regulatory Quality and Performance." OECD.
-OECD. 2014. Regulatory Enforcement and Inspections – Best Practice Principles for Regulatory Policy. Paris: OECD Publishing.
+MMC (Multi Hazard Mitigation Council). 2005. "Natural Hazard Mitigation Saves: An Independent Study to Assess the Future Savings from Mitigation Activities. Volume 1 - Findings, Conclusions, and Recommendations." 
+OECD (Organisation for Economic Co-operation and Development) and APEC (Asia-Pacific Economic Cooperation). 2005. "APEC-OECD Integrated Checklist on Regulatory Reform." Paris: OECD.
+OECD. 2005. "OECD Guiding Principles for Regulatory Quality and Performance." Paris: OECD.
+OECD. 2010. Risk and Regulatory Policy – Improving the Governance of Risk. Paris: OECD.
+OECD. 2012. "Recommendation of the Council on Regulatory Quality and Performance." Paris: OECD
+OECD. 2014. Regulatory Enforcement and Inspections – Best Practice Principles for Regulatory Policy. Paris: OECD.
 Transparency International. 2005. Global Corruption Report: Corruption in Construction and Post-Conflict Reconstruction. London: Pluto Press. 
-Transparency International. 2011. "Bribes Payer Index." Transparency International. https://www.transparency.org/research/bpi/.
+Transparency International. 2011. "Bribes Payer Index." https://www.transparency.org/research/bpi/.
 UNCRD (United Nations Centre for Regional Development). 2009. "From Code to Practice. Challenges for Building Code Implementation And the Further Direction of Housing Earthquake Safety." Records and outcomes of International Symposium 2008 on Earthquake Safe Housing, 28-29 November, Tokyo, Japan.
 UN-Habitat (United Nations Human Settlements Programme). 2008. Municipal Financing and Urban Development. Nairobi: UN-HABITAT.
 UN-Habitat and GLTN (Global Land Tool Network). 2008. Secure Land Rights for All. Nairobi: UN-HABITAT.
@@ -164,8 +164,8 @@ World Bank. 2006. "Good Practices for Business Inspections: Guidelines for Refor
 World Bank. 2011. How to Reform Business Inspections: Design, Implementation, Challenges. Washington, DC: World Bank Group.
 World Bank. 2010. Regulatory Governance in Developing Countries. Washington, DC: World Bank Group.
 World Bank Enterprise Survey. http://www.enterprisesurveys.org/.
-World Bank and IFC (International Finance Corporation). 2013. Turkey Green Buildings Market Study. World Bank Group.
-World Bank. 2012. Managing Disaster Risk for a Resilient Future. GFDRR and World Bank Group.
-World Bank. 2014. "Doing Business Report 2014: Understanding Regulations for Small and Medium-Size Enterprises." World Bank Group.
-World Bank. 2014. "Pakistan Earthquake 2005. The Case of Centralized Recovery Planning and Decentralized Implementation." GFDRR and World Bank Group.
-World Bank. 2015. "Case Study: Institutional Arrangements and Construction Permitting Process in Tacloban City and Tagbilaran City in the Philippines – A Comparative Analysis." GFDRR and World Bank Group.
+World Bank and IFC (International Finance Corporation). 2013. Turkey Green Buildings Market Study. Washington, DC: World Bank Group.
+World Bank. 2012. Managing Disaster Risk for a Resilient Future. Washington, DC: World Bank Group.
+World Bank. 2014. "Doing Business Report 2014: Understanding Regulations for Small and Medium-Size Enterprises." Washington, DC: World Bank Group.
+World Bank. 2014. "Pakistan Earthquake 2005. The Case of Centralized Recovery Planning and Decentralized Implementation." Washington, DC: World Bank Group.
+World Bank. 2015. "Case Study: Institutional Arrangements and Construction Permitting Process in Tacloban City and Tagbilaran City in the Philippines – A Comparative Analysis." Washington, DC: World Bank Group.
